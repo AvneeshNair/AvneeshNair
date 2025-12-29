@@ -56,6 +56,14 @@ This repository highlights selected projects that demonstrate my practical skill
 🔗 **Repository:** https://github.com/AvneesNair/dns-icmp-network-traffic-analysis
 
 
+### 🚨 DoS SYN Flood Network Attack Analysis
+- Identified and analyzed a TCP SYN flood denial-of-service attack.
+- Used Wireshark to detect abnormal TCP handshake behavior.
+- Assessed impact on server availability and legitimate users.
+
+🔗 https://github.com/AvneesNair/dos-syn-flood-network-attack-analysis
+
+
 ---
 
 ## Learning & Certifications
