@@ -6,28 +6,29 @@ I am a motivated and detail-oriented aspiring cybersecurity professional with a 
 ---
 
 ## About Me
-- Aspiring cybersecurity professional with a strong foundation in security fundamentals
-- Interested in threat analysis, risk management, and defensive security practices
-- Committed to ethical conduct, continuous learning, and hands-on skill development
+- Aspiring cybersecurity professional with a strong foundation in security fundamentals  
+- Interested in threat analysis, risk management, and defensive security practices  
+- Committed to ethical conduct, continuous learning, and hands-on skill development  
 
 ---
 
 ## Skills & Tools
-**Security Concepts**
+
+### Security Concepts
 - Risk assessment and threat analysis  
 - Vulnerability identification and mitigation  
 - Incident response fundamentals  
-- CIA triad (Confidentiality, Integrity, Availability)
+- CIA triad (Confidentiality, Integrity, Availability)  
 
-**Technical Skills**
+### Technical Skills
 - Linux fundamentals  
 - Networking basics (TCP/IP, DNS, HTTP/S)  
 - Log analysis  
-- Scripting (Python / Bash – basic to intermediate)
+- Scripting (Python / Bash – basic to intermediate)  
 
-**Tools**
+### Tools
 - Wireshark  
-- Splunk / ELK (or learning)  
+- Splunk / ELK (learning)  
 - Nmap  
 - Burp Suite  
 - Git & GitHub  
@@ -37,38 +38,41 @@ I am a motivated and detail-oriented aspiring cybersecurity professional with a 
 ## Projects
 This repository highlights selected projects that demonstrate my practical skills and learning progress.
 
-### Featured Work
+### 🧸 Botium Toys – Internal IT Security Audit
+- Conducted an internal IT security audit using the **NIST Cybersecurity Framework (CSF)**  
+- Assessed administrative, technical, and physical controls  
+- Evaluated compliance with **PCI DSS, GDPR, and SOC (Type 1 / Type 2)**  
+- Identified key gaps including lack of least privilege, missing encryption, absent backups, and insufficient monitoring  
+- Produced a formal **Controls and Compliance Checklist** with recommendations  
 
-#### 🧸 Botium Toys – Internal IT Security Audit
-- Conducted an internal IT security audit for a fictional organization using the **NIST Cybersecurity Framework (CSF)**.
-- Assessed **administrative, technical, and physical controls**, and evaluated compliance with **PCI DSS, GDPR, and SOC (Type 1 / Type 2)** requirements.
-- Identified key security gaps including lack of least privilege, absence of encryption, missing backups, and insufficient monitoring controls.
-- Produced a formal **Controls and Compliance Checklist** with documented findings and recommendations.
+🔗 Repository:  
+https://github.com/AvneeshNair/botium-toys-internal-audit
 
-🔗 **Repository:** https://github.com/AvneeshNair/Botium-toys-internal-audit
+---
 
+### 🌐 DNS & ICMP Network Traffic Analysis
+- Investigated a DNS service outage using **tcpdump**  
+- Identified UDP port 53 failures and ICMP error responses  
+- Documented findings and root cause in a formal incident report  
 
-#### 🌐 DNS & ICMP Network Traffic Analysis
-- Investigated a DNS service outage using tcpdump.
-- Identified UDP port 53 failures and ICMP error responses.
-- Documented findings and root cause in a formal incident report.
+🔗 Repository:  
+https://github.com/AvneeshNair/dns-icmp-network-traffic-analysis
 
-🔗 **Repository:** https://github.com/AvneesNair/dns-icmp-network-traffic-analysis
-
+---
 
 ### 🚨 DoS SYN Flood Network Attack Analysis
-- Identified and analyzed a TCP SYN flood denial-of-service attack.
-- Used Wireshark to detect abnormal TCP handshake behavior.
-- Assessed impact on server availability and legitimate users.
+- Identified and analyzed a **TCP SYN flood Denial-of-Service (DoS)** attack  
+- Used **Wireshark** to detect abnormal TCP handshake behavior  
+- Assessed impact on server availability and legitimate user traffic  
 
-🔗 https://github.com/AvneesNair/dos-syn-flood-network-attack-analysis
-
+🔗 Repository:  
+https://github.com/AvneeshNair/dos-syn-flood-network-attack-analysis
 
 ---
 
 ## Learning & Certifications
-- Google Cybersecurity Certificate (in progress)
-- Continuous self-study through labs, documentation, and security communities
+- Google Cybersecurity Certificate (in progress)  
+- Continuous self-study through labs, documentation, and security communities  
 
 ---
 
@@ -76,13 +80,13 @@ This repository highlights selected projects that demonstrate my practical skill
 - Ethical and responsible security practices  
 - Protecting organizations and individuals from cyber threats  
 - Clear documentation and reproducible analysis  
-- Lifelong learning in a rapidly evolving field
+- Lifelong learning in a rapidly evolving field  
 
 ---
 
 ## Contact
-- LinkedIn: https://www.linkedin.com/in/avneesh-nair/
-- Email: nairavneesh10@gmail.com
+- **LinkedIn:** https://www.linkedin.com/in/avneesh-nair/  
+- **Email:** nairavneesh10@gmail.com  
 
 ---
 
