@@ -74,6 +74,14 @@ This repository highlights selected projects that demonstrate my practical skill
 🔗 Repository: https://github.com/AvneeshNair/brute-force-web-compromise-analysis
 
 ---
+### 🧭 NIST CSF – DoS Incident Analysis
+- Analyzed a denial-of-service attack using the NIST Cybersecurity Framework.
+- Identified gaps in firewall configuration and ICMP traffic handling.
+- Developed protection, detection, response, and recovery recommendations.
+
+🔗 https://github.com/AvneeshNair/nist-csf-dos-incident-analysis
+
+---
 ## Learning & Certifications
 - Google Cybersecurity Certificate (in progress)  
 - Continuous self-study through labs, documentation, and security communities  
