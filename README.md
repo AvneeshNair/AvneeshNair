@@ -45,8 +45,7 @@ This repository highlights selected projects that demonstrate my practical skill
 - Identified key gaps including lack of least privilege, missing encryption, absent backups, and insufficient monitoring  
 - Produced a formal **Controls and Compliance Checklist** with recommendations  
 
-🔗 Repository:  
-https://github.com/AvneeshNair/botium-toys-internal-audit
+🔗 Repository:  https://github.com/AvneeshNair/botium-toys-internal-audit
 
 ---
 
@@ -55,8 +54,7 @@ https://github.com/AvneeshNair/botium-toys-internal-audit
 - Identified UDP port 53 failures and ICMP error responses  
 - Documented findings and root cause in a formal incident report  
 
-🔗 Repository:  
-https://github.com/AvneeshNair/dns-icmp-network-traffic-analysis
+🔗 Repository:  https://github.com/AvneeshNair/dns-icmp-network-traffic-analysis
 
 ---
 
@@ -65,11 +63,17 @@ https://github.com/AvneeshNair/dns-icmp-network-traffic-analysis
 - Used **Wireshark** to detect abnormal TCP handshake behavior  
 - Assessed impact on server availability and legitimate user traffic  
 
-🔗 Repository:  
-https://github.com/AvneeshNair/dos-syn-flood-network-attack-analysis
+🔗 Repository:  https://github.com/AvneeshNair/dos-syn-flood-network-attack-analysis
 
 ---
+### 🧠 Brute Force Web Server Compromise Analysis
+- Investigated a brute force attack leading to administrative account takeover.
+- Analyzed HTTP and DNS traffic related to malware delivery and redirection.
+- Documented attack impact and recommended preventive controls.
 
+🔗 Repository: https://github.com/AvneeshNair/brute-force-web-compromise-analysis
+
+---
 ## Learning & Certifications
 - Google Cybersecurity Certificate (in progress)  
 - Continuous self-study through labs, documentation, and security communities  
