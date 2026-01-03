@@ -97,7 +97,7 @@ This repository highlights selected projects that demonstrate my practical skill
 ---
 
 ## Contact
-- **LinkedIn:** https://www.linkedin.com/in/avneesh-nair/  
+- **LinkedIn:** https://www.linkedin.com/in/avneeshnair/ 
 - **Email:** nairavneesh10@gmail.com  
 
 ---
