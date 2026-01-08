@@ -82,6 +82,14 @@ This repository highlights selected projects that demonstrate my practical skill
 🔗Repository:  https://github.com/AvneeshNair/nist-csf-dos-incident-analysis
 
 ---
+### 🐧 Linux File Permissions Management
+- Examined and updated file and directory permissions using Linux.
+- Used `ls -la` and `chmod` to enforce proper authorization.
+- Managed permissions for regular files, hidden files, and directories.
+
+🔗Repository:  https://github.com/AvneeshNair/linux-file-permissions-management
+
+---
 ## Learning & Certifications
 - Google Cybersecurity Certificate (in progress)  
 - Continuous self-study through labs, documentation, and security communities  
