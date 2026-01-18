@@ -90,6 +90,16 @@ This repository highlights selected projects that demonstrate my practical skill
 🔗Repository:  https://github.com/AvneeshNair/linux-file-permissions-management
 
 ---
+
+### 🗄️ SQL Security Filtering Analysis
+- Investigated suspicious login attempts using SQL filters.
+- Applied AND, OR, NOT, and LIKE operators to analyze security data.
+- Queried employee and login datasets to support security updates.
+
+🔗Repository:  https://github.com/AvneeshNair/sql-security-filtering-analysis
+
+---
+
 ## Learning & Certifications
 - Google Cybersecurity Certificate (in progress)  
 - Continuous self-study through labs, documentation, and security communities  
